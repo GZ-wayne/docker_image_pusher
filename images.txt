@@ -1,1 +1,1 @@
-docker pull nginx:stable-perl
+nginx:stable-perl
