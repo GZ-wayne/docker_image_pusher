@@ -1,1 +1,2 @@
 nginx:stable-perl
+tomcat:latest
