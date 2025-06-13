@@ -1,2 +1,3 @@
 nginx:stable-perl
 tomcat:latest
+mysql:latest
