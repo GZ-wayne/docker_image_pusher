@@ -1,5 +1,5 @@
 #--platform=linux/arm64 docker.io/bitnami/mongodb:7.0.5-debian-11-r6
 
 #--platform=linux/arm64 bitnami/mongodb-exporter:0.40.0-debian-11-r6
-alpine
+curlimages/curl
 
