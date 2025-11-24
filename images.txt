@@ -3,4 +3,5 @@
 #--platform=linux/arm64 bitnami/mongodb-exporter:0.40.0-debian-11-r6
 #--platform=linux/arm64 apache/rocketmq:5.3.1
 #--platform=linux/arm64 bitnami/mongodb:latest
-pawsql/pawsql-ce:latest
+#pawsql/pawsql-ce:latest
+mysql:8.0.44-debian
