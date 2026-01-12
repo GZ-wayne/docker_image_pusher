@@ -7,3 +7,6 @@
 mysql:8.0.44-debian
 jenkins/inbound-agent:latest-jdk17
 --platform=linux/arm64 jenkins/inbound-agent:latest-jdk17
+
+
+nginx
