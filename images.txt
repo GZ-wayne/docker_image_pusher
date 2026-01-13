@@ -4,9 +4,9 @@
 #--platform=linux/arm64 apache/rocketmq:5.3.1
 #--platform=linux/arm64 bitnami/mongodb:latest
 #pawsql/pawsql-ce:latest
-mysql:8.0.44-debian
+#mysql:8.0.44-debian
 jenkins/inbound-agent:latest-jdk17
 --platform=linux/arm64 jenkins/inbound-agent:latest-jdk17
 
-
+mysql:8.0.44-debian
 nginx
