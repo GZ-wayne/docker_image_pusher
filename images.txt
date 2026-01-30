@@ -12,5 +12,5 @@
 #mysql:8.0.44-debian
 #nginx
 #--platform=linux/arm64 loyalparter/uos1070:latest
-openjdk:17-jdk-alpine
+openjdk:17-ea-jdk
 
