@@ -11,8 +11,8 @@
 #
 #mysql:8.0.44-debian
 #nginx
-#--platform=linux/arm64 loyalparter/uos1070:latest
+# loyalparter/uos1070:latest
 #openjdk:17-ea-jdk
-jenkins/jenkins:lts-jdk17
+--platform=linux/arm64 jenkins/inbound-agent:jdk21
 
 
