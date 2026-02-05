@@ -13,6 +13,8 @@
 #nginx
 # loyalparter/uos1070:latest
 #openjdk:17-ea-jdk
---platform=linux/arm64 jenkins/inbound-agent:jdk21
+#--platform=linux/arm64 jenkins/inbound-agent:jdk21
+--platform=linux/arm64 macrosan/uos:v20-1070
+
 
 
